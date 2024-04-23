@@ -16,24 +16,4 @@ class Mahasiswa {
 };
 
 
-  class Matakuliah{
-    private:
-        string kodeMk;
-        string namaMk;
-        int sks;
-    public:
-        void input (){
-            cout << "kode mk :";
-            cin >> kodeMk;
-            cout << "nama mk :";
-            cin >> namaMk;
-            cout <<"sks:";
-            cin >> sks;
-        }
-
-        void output(){
-            cout << "KodeMk: " << kodeMk << endl;
-            cout << "NamaMk: " << namaMk << endl;
-            cout << "SKS: " << sks << endl;
-         }
-  };
+ 
