@@ -1,0 +1,8 @@
+      }
+
+        void output(){
+            cout << "KodeMk: " << kodeMk << endl;
+            cout << "NamaMk: " << namaMk << endl;
+            cout << "SKS: " << sks << endl;
+         }
+  };
